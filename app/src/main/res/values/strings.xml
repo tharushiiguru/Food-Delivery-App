@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoodOn</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Colombo</item>
+        <item>Galle</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Chicken Fried Rice</item>
+        <item>Chicken Kottu</item>
+        <item>Egg Fried Rice</item>
+        <item>Egg Kottu</item>
+        <item>String Hoppers 20 pack </item>
+        <item>Bread</item>
+        <item>Chicken Rice and Curry</item>
+        <item>Egg Rice and Curry</item>
+        <item>Soup</item>
+
+
+    </string-array>
+</resources>
